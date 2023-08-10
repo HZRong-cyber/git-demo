@@ -15,4 +15,4 @@ git!
 git!
 git!
 123 master test
-hot fix 1
+hot fix 1 hot fix test
